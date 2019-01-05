@@ -1,4 +1,4 @@
-# React (TodoList)
+# Redux-example
 
 ![Screenshot](./docs/capture.png)
 
